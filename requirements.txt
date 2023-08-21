@@ -1,0 +1,4 @@
+
+Flask
+pyscopg2==66.0.2
+Flask-SQLAlchemy
